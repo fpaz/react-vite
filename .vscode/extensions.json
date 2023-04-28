@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "ms-azuretools.vscode-docker",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "chakrounanas.turbo-console-log",
+    "eamodio.gitlens",
+    "dsznajder.es7-react-js-snippets",
+    "formulahendry.auto-rename-tag",
+    "ue.alphabetical-sorter",
+    "diegolincoln.vscode-styled-components"
+  ]
+}
